@@ -1,8 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
 .fashion {
-    padding: 20px 30px;
+    font-size: 50px;
+    color: brown;
 }
-.fashion___female{
-    
+fashion___female {
+    font-size: 40px;
+    color: darkblue;
 }
+
+.fashion__female-p {
+    font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+color: black;
+}       
